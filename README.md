@@ -1,4 +1,5 @@
-![Pizza_Sales](https://github.com/user-attachments/assets/89de50e0-fbae-4021-b37e-7d3834bb907b)
+![Pizza_Sales](https://github.com/user-attachments/assets/000331a2-5505-4e5c-9be5-07a6dba7c6b2)
+
 
 DAX Formula: Highest Orders
 
